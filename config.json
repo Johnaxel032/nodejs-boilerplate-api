@@ -6,7 +6,7 @@
         "password" : "",
         "database" : "nodejs-boilerplate-api"
     },
-    "secret": "6c32701b-3329-431e-b95f-5604da73e4fc",
+    "secret": "5780c670-717d-45b8-b791-92da4365c92c",
     "emailFrom": "info@nodejs-boilerplate-api.com",
     "smtpOptions" : {
         "host": "smtp.ethereal.email",
